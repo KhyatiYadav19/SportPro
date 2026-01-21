@@ -1,16 +1,11 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1920" height="1080" alt="Screenshot 2026-01-21 163101" src="https://github.com/user-attachments/assets/5d681643-3396-4f9e-b764-bd539dd7d748" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-21 163227" src="https://github.com/user-attachments/assets/e9ef6b0f-5c26-4234-9133-063b18c94860" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-21 163206" src="https://github.com/user-attachments/assets/a93c9a17-849f-40fc-a54a-c266e82fd824" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-21 163154" src="https://github.com/user-attachments/assets/d5eaaa2c-7d03-44fa-b021-8d882f5ee027" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-21 163141" src="https://github.com/user-attachments/assets/5be33f3a-cc28-4a54-afe9-83d60d3f645a" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-21 163129" src="https://github.com/user-attachments/assets/13516c95-10f0-48d1-8c7f-bd46acef3e3f" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-21 163116" src="https://github.com/user-attachments/assets/1d64e512-637f-4ae7-9f3b-de8c28e32aa2" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-21 163340" src="https://github.com/user-attachments/assets/f324b600-5925-4ad1-b567-5764a81f1178" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-21 163325" src="https://github.com/user-attachments/assets/3aa2d690-2a8f-4e19-ac85-15a0aa1fd226" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-21 163300" src="https://github.com/user-attachments/assets/5b9eaa32-ccd0-4b11-8cf2-ad286a9e6dac" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-21 163248" src="https://github.com/user-attachments/assets/bbe633d7-05ae-483e-9527-5ec0ada8e086" />
